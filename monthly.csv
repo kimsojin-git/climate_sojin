@@ -1,0 +1,61 @@
+Country,Month,Temperature (°C),Precipitation (mm)
+South Korea,January,-2,25
+South Korea,July,25,300
+Brazil,January,30,500
+Brazil,July,25,200
+Canada,January,-15,20
+Canada,July,20,150
+Egypt,January,15,0
+Egypt,July,35,50
+India,January,10,15
+India,July,32,400
+Australia,January,20,30
+Australia,July,10,250
+Germany,January,-1,60
+Germany,July,22,100
+China,January,-5,70
+China,July,30,400
+Russia,January,-25,50
+Russia,July,15,150
+United States,January,0,75
+United States,July,30,250
+Japan,January,2,60
+Japan,July,28,300
+South Africa,January,10,120
+South Africa,July,25,350
+Mexico,January,15,50
+Mexico,July,35,400
+Saudi Arabia,January,18,20
+Saudi Arabia,July,40,0
+Argentina,January,5,100
+Argentina,July,18,200
+United Kingdom,January,0,150
+United Kingdom,July,20,300
+France,January,2,120
+France,July,28,250
+Indonesia,January,25,400
+Indonesia,July,32,500
+Nigeria,January,30,350
+Nigeria,July,35,450
+Turkey,January,5,100
+Turkey,July,30,150
+Ghana,January,28,450
+Ghana,July,30,500
+Philippines,January,30,500
+Philippines,July,31,550
+New Zealand,January,10,300
+New Zealand,July,25,350
+Peru,January,18,250
+Peru,July,20,300
+Iceland,January,-5,100
+Iceland,July,10,200
+Nepal,January,5,50
+Nepal,July,25,400
+Greenland,January,-30,20
+Greenland,July,-10,50
+Antarctica,January,-50,5
+Antarctica,July,-30,10
+Bhutan,January,10,150
+Bhutan,July,20,300
+Ethiopia,January,15,200
+Ethiopia,July,25,400
